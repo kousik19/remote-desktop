@@ -9,8 +9,11 @@ Application is devided into two tires - server & client. Server is developed usi
 This is a very good Node JS project for students, as well as for the professional developers. You will get to learn:
 
 **1. How to setup an electron app
-2. Creating and communication with a web socket server.
+
+**2. Creating and communication with a web socket server.
+
 **3. Methodology of how remote desktop works.
-4. NPM, Socket.IO, HTML, jQuery and many more
+
+**4. NPM, Socket.IO, HTML, jQuery and many more
 
 #chennelcodeboard #remotedesktop #nodejs #websocket
