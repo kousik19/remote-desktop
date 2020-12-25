@@ -1,0 +1,35 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.header {
+    width: 100%;
+    height: fit-content;
+    text-align: center;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    color: white;
+    font-weight: bolder;
+    background: #4148ae;
+    font-size: 20px;
+}
+
+.code {
+    padding: 2px;
+    text-align: center;
+}
+
+.container { display: grid; }
+
+.btn {
+    border: 0;
+    background: #4148ae;
+    color: white;
+    padding: 4px;
+    font-size: 16px;
+    position: center;
+}
+
+#stop {display: none;}
